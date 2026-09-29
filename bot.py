@@ -14,7 +14,7 @@ from telegram.ext import (
 # КЛАТЧЕР — Telegram Bot
 # =========================
 
-BOT_TOKEN = os.getenv("BOT_TOKEN")
+BOT_TOKEN = os.getenv("8938904147:AAGLfXJbLibjEumIG4lzyueKCnqR3cBv28A")
 ADMIN_ID = 8919996108
 DB_PATH = "clutcher.db"
 
